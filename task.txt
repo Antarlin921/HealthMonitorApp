@@ -1,0 +1,7 @@
+1.make flask app of all the project u have done till now
+2.create a requirement.txt
+3.flask app should be pushed on github
+4.Signup in horeku
+5.Create an account on aws
+download the softwares required for deployment in AWS (windows pc only)(putty,puttygen,winscp)
+
