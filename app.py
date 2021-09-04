@@ -9,10 +9,6 @@ model=joblib.load('dib_79.pkl')
 
 @app.route('/')
 def hello():
-    return "Welcome"
-
-@app.route('/home')
-def homepage():
     return render_template("home.html")
 
 @app.route('/welcome')
